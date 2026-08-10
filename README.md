@@ -18,17 +18,17 @@ Archger is a lightweight C++ CLI management utility designed specifically for Ar
 
 ### Compilation
 Clone the repository and build using g++:
-'''bash
+```bash
 git clone https://github.com/danrau/arch-manager.git
 cd archger
 g++ main.cpp -o archger
-'''
+```
 ## Usage
 
 Run the compiled executable
-'''bash
+```bash
 ./archger
-'''
+```
 Follow the on-screen interactive menu:
 1. Select 1 to scan for orphan packages.
 2. Enter any package names you wish to preserve (or press Enter to skip).
