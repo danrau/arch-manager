@@ -33,7 +33,3 @@ Follow the on-screen interactive menu:
 1. Select 1 to scan for orphan packages.
 2. Enter any package names you wish to preserve (or press Enter to skip).
 3. Confirm the deletion prompt (Y/n).
-
-## License
-
-MIT License. Free to use and modify.
